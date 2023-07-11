@@ -1,0 +1,89 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+/* Header Section Style */
+.header-section {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(229, 84, 115, 0.10);
+    max-height: 500px;
+}
+
+.header-text-content {
+    padding: 10px 170px 5px;
+}
+
+.header-title {
+    color: #272727;
+    font-size: 50px;
+    font-weight: 800;
+}
+
+.paragraph {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 16px;
+}
+
+.btn-primary {
+    padding: 10px 40px;
+    border-radius: 5px;
+    border: none;
+    background: #E55473;
+    color: white;
+}
+
+.header-photo,
+img {
+    max-height: 100%;
+}
+
+/* Main flower Section Style */
+
+.text-content {
+    text-align: center;
+}
+
+.flower-section-title {
+    color: #272727;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.flowers-photo {
+    display: flex;
+    justify-content: space-around;
+    padding-left: 240px;
+    padding-right: 240px;
+
+}
+
+.pngwing-five {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    padding-top: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    width: 250px;
+    height: 300px;
+}
+
+.pngwing-six {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    padding-top: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    width: 250px;
+    height: 300px;
+}
+
+.pngwing-seven {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    padding-top: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    width: 250px;
+    height: 300px;
+}
