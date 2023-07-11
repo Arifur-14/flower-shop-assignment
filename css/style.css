@@ -52,11 +52,13 @@ nav a:hover{
     color: #272727;
     font-size: 50px;
     font-weight: 800;
+    padding-bottom: 10px;
 }
 
 .paragraph {
     color: rgba(39, 39, 39, 0.60);
     font-size: 16px;
+    padding-bottom: 15px;
 }
 
 .btn-primary {
